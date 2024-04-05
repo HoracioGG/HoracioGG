@@ -3,13 +3,14 @@
 Soy un apasionado de la informatica que dedica su tiempo a aprender lo maximo posible ya que siempre se puede aprender algo mas.
 Estudie el grado medio de telecomunicaciones en el CPIFP Los Viveros y actualmemte estoy cursando el grado superior de ASIR en el IES rodrigo caro.
 ## Habilidades
-Buena comunicacion y trabajo en equipo.
+Me describo como una persona que se compromete mucho con los proyectos que inicia en mi opinion hago un buen papel en trabajos en equipo,
+En situaciones bajo presion me desarrollo con facilidad lo que me da un extra de confianza a la hora de gestionar un proyecto.
 ## Conocimientos
--Áreas de montaje y mantenimiento de infraestructuras de telecomunicación
+<br>-Áreas de montaje y mantenimiento de infraestructuras de telecomunicación</br>
 <br>-Instalaciones de circuito cerrado de televisión y seguridad electrónica</br>
 <br>-Centralitas telefónicas e infraestructuras de redes de voz y datos</br>
 <br>-Sonorización y megafonía </br>
-<br>-Nstalaciones de radiocomunicaciones</br>
+<br>-Istalaciones de radiocomunicaciones</br>
 <br>-Sistemas domóticos y equipos informáticos</br>
 
 
