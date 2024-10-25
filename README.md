@@ -13,6 +13,7 @@ En situaciones bajo presion me desarrollo con facilidad lo que me da un extra de
 <br>-Sonorización y megafonía </br>
 <br>-Istalaciones de radiocomunicaciones</br>
 <br>-Sistemas domóticos y equipos informáticos</br>
+<br>-Area de informática de entidades que dispongan de sistemas para la gestión de datos e infraestructura de redes (intranet, internet y/o extranet)</br>
 
 
 
