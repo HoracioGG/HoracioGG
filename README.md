@@ -27,7 +27,7 @@ En situaciones bajo presion me desarrollo con facilidad lo que me da un extra de
 | [Open Webinars](https://openwebinars.net)  | En proceso |
 | [Cisco](https://www.netacad.com/es/)  | En proceso |
 
-## Encuéntrame en
+## Contacto
 ![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/hgomezgarcia1@gmail.com-red?style=for-the-badge&color=%23d14836)
 
