@@ -1,6 +1,6 @@
 [![H-t.jpg](https://i.postimg.cc/m2MdC77R/H-t.jpg)](https://postimg.cc/qzJXdhmZ)
 
-##Curriculum de Horacio Gomez
+## Curriculum de Horacio Gomez
 
 ## Hola,soy Horacio Gomez 👋
 *Soy un apasionado de la informatica que dedica su tiempo a aprender lo maximo posible ya que siempre se puede aprender algo mas.
