@@ -1,5 +1,7 @@
 [![H-t.jpg](https://i.postimg.cc/m2MdC77R/H-t.jpg)](https://postimg.cc/qzJXdhmZ)
 
+##Curriculum de Horacio Gomez
+
 ## Hola,soy Horacio Gomez 👋
 *Soy un apasionado de la informatica que dedica su tiempo a aprender lo maximo posible ya que siempre se puede aprender algo mas.
 Estudie el grado medio de Técnico en Instalaciones de Telecomunicaciones en el [CPIFP Los Viveros](https://cpifplosviveros.es/) y actualmemte estoy cursando el grado superior de ASIR (Administracion de Sistemas Informáticos en Red) en el [IES rodrigo caro](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/).*
